@@ -15,4 +15,4 @@ int main()
  else if(x<40)
  printf("Grade F");
  getch();
- 
+ }
